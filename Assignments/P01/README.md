@@ -1,5 +1,5 @@
 ## P01 - Vector Class
-### Sally Smith
+### Brett Smith
 ### Description:
 
 
