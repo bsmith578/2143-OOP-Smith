@@ -2,7 +2,8 @@
 ### Brett Smith
 ### Description:
 
-
+This program implemets a linked list based Vector class that uses multiple methods to create instances of Vectors,
+add values, remove values, and print the values within a Vector to stdout and an output file.
 
 ### Files
 
@@ -15,11 +16,4 @@
 
 ### Instructions
 
-- 
-- 
-- 
-- 
-
-- Example Command:
-    - 
-    - 
+- Make sure to download the input.dat file as it is used in main to create an instance of a Vector
