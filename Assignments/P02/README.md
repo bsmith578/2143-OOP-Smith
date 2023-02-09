@@ -3,9 +3,9 @@
 ### Description:
 
 This program takes the class created in P01 and adds more functionality. This is achieved by
-adding methods to overload operators such as '<<', '>>', '+', '-', and '='. Some of these methods
-will allow the program to print a Vector using '<<' without having to call the print method
-or add a value onto the vector using '+' instead of having to call a push method.
+adding methods to overload C++ operators such as '<<', '>>', '+', '-', and '='. Some of these
+methods will allow the program to print a Vector using '<<' without having to call the print
+method or add a value onto the vector using '+' instead of having to call a push method.
 
 ### Files
 
