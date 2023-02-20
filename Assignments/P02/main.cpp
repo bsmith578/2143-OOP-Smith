@@ -1184,7 +1184,8 @@ int main()
   ofstream outfile;            //ofstream object created to print to output.txt
   outfile.open("output.txt");  //output file created for writing to
 
-  outfile << "Brett Smith" << endl << "Program 2" << endl << "2143 - OOP" << endl << "Spring 2023" << endl << endl;
+  outfile << "Brett Smith" << endl << "Program 2" << endl << "2143 - OOP" << 
+     endl << "Spring 2023" << endl << endl;
   
   cout << v1[2] << endl;
   outfile << v1[2] << endl;
