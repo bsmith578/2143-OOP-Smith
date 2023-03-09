@@ -60,4 +60,3 @@ digraph BST
 	2 :left -> 5 [arrowhead="linv", color="blue"];
 	2 :right -> 6 [arrowhead="oinv", color="blue"];
 }
-
