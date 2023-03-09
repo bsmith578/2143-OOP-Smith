@@ -46,7 +46,6 @@ digraph BST
 	bgcolor=cyan;
 	label="Binary Search Tree"
 	Node [shape=record, color=black];
-
 	0 [label="{ <data> 115 | { <left> | <right> }}", color="black", shape="record"];
 	1 [label="{ <data> 57 | { <left> | <right> }}", color="black", shape="record"];
 	2 [label="{ <data> 28 | { <left> | <right> }}", color="black", shape="record"];
