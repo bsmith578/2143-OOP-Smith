@@ -1,0 +1,64 @@
+Brett Smith 
+3/08/2023 
+Spring 2023
+
+digraph LL
+{
+	rankdir=LR;
+	label="Linked List"
+	Node [shape=record,color=black];
+
+	0 [label="{ <data> 74 | <next> }", color="orange", shape="record"];
+	1 [label="{ <data> 11 | <next> }", color="black", shape="signature"];
+	2 [label="{ <data> 27 | <next> }", color="blue", shape="record"];
+	3 [label="{ <data> 123 | <next> }", color="purple", shape="star"];
+
+	null [shape=circle, color=white];
+
+	0:next:3 -> 1:data [arrowhead="vee", arrowtail="dot", color="purple", dir="both", tailclip="false"];
+	1:next:3 -> 2:data [arrowhead="crow", color="black"];
+	2:next:3 -> 3:data [arrowhead="icurve", color="black", dir="one"];
+	3:next:3 -> null [arrowhead="vee", arrowtail="dot", color="red", dir="none"];
+}
+
+digraph DLL
+{
+	rankdir=LR;
+	label="Doubly Linked List"
+	Node [shape=record,color=black];
+
+	0 [label="{ <pre> | <data> 7 | <next> }", color="orange", shape="invhouse"];
+	1 [label="{ <pre> | <data> 8 | <next> }", color="black", shape="doublecircle"];
+	2 [label="{ <pre> | <data> 9 | <next> }", color="blue", shape="record"];
+
+	null [shape=circle, color=white];
+
+	0:pre:n -> null [arrowhead="vee", arrowtail="dot", color="purple", dir="both", tailclip="false"];
+	0:next:3 -> 1:data [arrowhead="vee", arrowtail="dot", color="purple", dir="both", tailclip="false"];
+	1:pre:3 -> 0:data [arrowhead="vee", color="black", dir="both"];
+	1:next:3 -> 2:data [arrowhead="vee", color="black", dir="both"];
+	2:pre:3 -> 1:data [arrowhead="vee", arrowtail="dot", color="red", dir="both"];
+	2:next:3 -> null [arrowhead="vee", arrowtail="dot", color="red", dir="both"];
+}
+
+digraph BST
+{
+	bgcolor=cyan;
+	label="Binary Search Tree"
+	Node [shape=record, color=black];
+
+	0 [label="{ <data> 115 | { <left> | <right> }}", color="black", shape="record"];
+	1 [label="{ <data> 57 | { <left> | <right> }}", color="black", shape="record"];
+	2 [label="{ <data> 28 | { <left> | <right> }}", color="black", shape="record"];
+	3 [label="{ <data> 5 | { <left> | <right> }}", color="black", shape="record"];
+	4 [label="{ <data> 7 | { <left> | <right> }}", color="black", shape="record"];
+	5 [label="{ <data> 2 | { <left> | <right> }}", color="black", shape="record"];
+	6 [label="{ <data> 8 | { <left> | <right> }}", color="black", shape="record"];
+	0 :left -> 1 [arrowhead="diamond", color="magenta"];
+	0 :right -> 2 [arrowhead="inv", color="purple"];
+	1 :left -> 3 [arrowhead="lcrow", color="blue"];
+	1 :right -> 4 [arrowhead="rcrow", color="blue"];
+	2 :left -> 5 [arrowhead="linv", color="blue"];
+	2 :right -> 6 [arrowhead="oinv", color="blue"];
+}
+
