@@ -17,9 +17,9 @@ the sum, min, max, and average of all the rolls.
 
 |   #   | File            | Description                                        |
 | :---: | --------------- | -------------------------------------------------- |
-|   1   | [banner.txt]()  | Banner for P04 |
-|   2   | [dice.py]()    | Python file that contains the classes and methods |
-|   3   | [main.py]()  | Main driver of the program |
+|   1   | [banner.txt](https://github.com/bsmith578/2143-OOP-Smith/blob/main/Assignments/P04/banner.txt)  | Banner for P04 |
+|   2   | [dice.py](https://github.com/bsmith578/2143-OOP-Smith/blob/main/Assignments/P04/dice.py)    | Python file that contains the classes and methods |
+|   3   | [main.py](https://github.com/bsmith578/2143-OOP-Smith/blob/main/Assignments/P04/main.py)  | Main driver of the program |
 
 ### Instructions
 
