@@ -28,17 +28,34 @@ the sum, min, max, and average of all the rolls.
     - from dice import Dice
 
 - Example Input:
-    - d1 = Die()        //creates a single Die with 6 sides
-    - d2 = Die(10)      //creates a single die with 10 sides
-    - d3 = Dice("5.d.20")   //creates 5 - 20 sided dice
+    - d1 = Die()        
+        - creates a single Die with 6 sides
+        
+    - d2 = Die(10)
+        - creates a single die with 10 sides
+        
+    - d3 = Dice("5.d.20")
+        - creates 5 - 20 sided dice
 
-    - print(d1)         //prints: Dice:[
-                                    [sides: 6]
-                                       ]
+    - print(d1)
+        - prints: Dice:[
+        - [sides: 6]
+        - ]
 
-    - d3.rollAll()      //rolls a random value for all 5 dice
-    - print(d3.rollVals)    //prints all values of the 5 dice
-    - print(d3.roll('max')) //prints the max number of the 5
-    - print(d3.roll('min')) //prints the min number of the 5
-    - print(d3.roll('avg')) //prints the average of all 5
-    - print(d3.roll())      //prints the sum of all 5
+    - d3.rollAll()
+        - rolls a random value for all 5 dice
+        
+    - print(d3.rollVals)
+        - prints all values of the 5 dice
+        
+    - print(d3.roll('max'))
+        - prints the max number of the 5
+        
+    - print(d3.roll('min'))
+        - prints the min number of the 5
+        
+    - print(d3.roll('avg'))
+        - prints the average of all 5
+        
+    - print(d3.roll())
+        - prints the sum of all 5
