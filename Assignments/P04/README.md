@@ -38,9 +38,7 @@ the sum, min, max, and average of all the rolls.
         - creates 5 - 20 sided dice
 
     - print(d1)
-        - prints: Dice:[
-        - [sides: 6]
-        - ]
+        - prints: Dice:[[sides: 6]]
 
     - d3.rollAll()
         - rolls a random value for all 5 dice
