@@ -23,8 +23,9 @@ the sum, min, max, and average of all the rolls.
 
 ### Instructions
 
-- In main.py you must have: from dice import Die
-                            from dice import Dice
+- In main.py you must have: 
+    - from dice import Die
+    - from dice import Dice
 
 - Example Input:
     - d1 = Die()        //creates a single Die with 6 sides
