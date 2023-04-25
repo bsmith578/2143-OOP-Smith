@@ -24,6 +24,10 @@
 #        dice.py      : python file that holds the classes and implementations
 ####################################################
 
+####
+# main.py
+####
+
 from dice import Die
 from dice import Dice
 
