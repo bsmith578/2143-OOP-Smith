@@ -6,5 +6,5 @@
 |   2   |[P01](https://github.com/bsmith578/2143-OOP-Smith/tree/main/Assignments/P01)|Program to implement a linked list based Vector Class|
 |   3   |[P02](https://github.com/bsmith578/2143-OOP-Smith/tree/main/Assignments/P02)|Program to add additional functionality to my Vector Class from P01|
 |   4   |[P03](https://github.com/bsmith578/2143-OOP-Smith/tree/main/Assignments/P03)|Program to generate GraphViz "dot" syntax|
-|   5   |[A05](https://github.com/bsmith578/2143-OOP-Smith/tree/main/Assignments/A05)|Wiki that provides info on key words and concepts for OOP|
+|   5   |[A04](https://github.com/bsmith578/2143-OOP-Smith/tree/main/Assignments/A04)|Wiki that provides info on key words and concepts for OOP|
 |   6   |[P04](https://github.com/bsmith578/2143-OOP-Smith/tree/main/Assignments/P04)|Python program that creates Dice|
