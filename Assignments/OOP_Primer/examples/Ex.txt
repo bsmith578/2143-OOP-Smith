@@ -1,0 +1,40 @@
+#include <iostream>
+
+using namespace std;
+
+class Math
+{
+  private:
+    int a, b, total;
+
+  public:
+    void Add(int a, int b)
+    {
+      total = a + b;
+    }
+
+    void Sub(int a, int b)
+    {
+      total = a - b
+    }
+
+    int getTotal()
+    {
+      return total;
+    }
+};
+
+int main()
+{
+  int x, y;
+  
+  cin >> x >> y;
+
+  Math doMath;
+
+  doMath.Add(x, y);
+  cout << "Total: " << doMath.getTotal() << endl;
+
+  doMath.Sub(x, y);
+  cout << "Total: " << doMath.getTotal() << endl;
+}
