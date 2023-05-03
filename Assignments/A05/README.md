@@ -20,19 +20,35 @@
 
 #### Character
 
+<img src="https://github.com/bsmith578/2143-OOP-Smith/blob/main/Assignments/A05/Images/Character.png" width="200">
+
 #### Consumables
+
+<img src="https://github.com/bsmith578/2143-OOP-Smith/blob/main/Assignments/A05/Images/Consumables.png" width="200">
 
 #### Armor
 
+<img src="https://github.com/bsmith578/2143-OOP-Smith/blob/main/Assignments/A05/Images/Armor.png" width="200">
+
 #### Weapon
+
+<img src="https://github.com/bsmith578/2143-OOP-Smith/blob/main/Assignments/A05/Images/Weapon.png" width="200">
 
 #### Spell
 
+<img src="https://github.com/bsmith578/2143-OOP-Smith/blob/main/Assignments/A05/Images/Spell.png" width="200">
+
 #### Wizard
+
+<img src="https://github.com/bsmith578/2143-OOP-Smith/blob/main/Assignments/A05/Images/Wizard.png" width="200">
 
 #### Ranger
 
+<img src="https://github.com/bsmith578/2143-OOP-Smith/blob/main/Assignments/A05/Images/Ranger.png" width="200">
+
 #### Paladin
+
+<img src="https://github.com/bsmith578/2143-OOP-Smith/blob/main/Assignments/A05/Images/Paladin.png" width="200">
 
 #### Diagram
 
