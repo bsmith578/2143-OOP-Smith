@@ -12,44 +12,44 @@
 
 #### Campaign
 
-<img src="C:\Users\brett\Documents\2143-OOP\2143-OOP-Smith\Assignments\A05\Images\Campaign.png" width="200">
+<img src="https://github.com/bsmith578/2143-OOP-Smith/blob/main/Assignments/A05/Images/Campaign.png" width="200">
 
 #### Encounter
 
-<img src="C:\Users\brett\Documents\2143-OOP\2143-OOP-Smith\Assignments\A05\Images\Encounter.png" width="200">
+<img src="https://github.com/bsmith578/2143-OOP-Smith/blob/main/Assignments/A05/Images/Encounter.png" width="200">
 
 #### Character
 
-<img src="C:\Users\brett\Documents\2143-OOP\2143-OOP-Smith\Assignments\A05\Images\Character.png" width="200">
+<img src="https://github.com/bsmith578/2143-OOP-Smith/blob/main/Assignments/A05/Images/Character.png" width="200">
 
 #### Consumable
 
-<img src="C:\Users\brett\Documents\2143-OOP\2143-OOP-Smith\Assignments\A05\Images\Consumable.png" width="200">
+<img src="https://github.com/bsmith578/2143-OOP-Smith/blob/main/Assignments/A05/Images/Consumable.png" width="200">
 
 #### Armor
 
-<img src="C:\Users\brett\Documents\2143-OOP\2143-OOP-Smith\Assignments\A05\Images\Armor.png" width="200">
+<img src="https://github.com/bsmith578/2143-OOP-Smith/blob/main/Assignments/A05/Images/Armor.png" width="200">
 
 #### Weapon
 
-<img src="C:\Users\brett\Documents\2143-OOP\2143-OOP-Smith\Assignments\A05\Images\Weapon.png" width="200">
+<img src="https://github.com/bsmith578/2143-OOP-Smith/blob/main/Assignments/A05/Images/Weapon.png" width="200">
 
 #### Spell
 
-<img src="C:\Users\brett\Documents\2143-OOP\2143-OOP-Smith\Assignments\A05\Images\Spell.png" width="200">
+<img src="https://github.com/bsmith578/2143-OOP-Smith/blob/main/Assignments/A05/Images/Spell.png" width="200">
 
 #### Wizard
 
-<img src="C:\Users\brett\Documents\2143-OOP\2143-OOP-Smith\Assignments\A05\Images\Wizard.png" width="200">
+<img src="https://github.com/bsmith578/2143-OOP-Smith/blob/main/Assignments/A05/Images/Wizard.png" width="200">
 
 #### Ranger
 
-<img src="C:\Users\brett\Documents\2143-OOP\2143-OOP-Smith\Assignments\A05\Images\Ranger.png" width="200">
+<img src="https://github.com/bsmith578/2143-OOP-Smith/blob/main/Assignments/A05/Images/Ranger.png" width="200">
 
 #### Paladin
 
-<img src="C:\Users\brett\Documents\2143-OOP\2143-OOP-Smith\Assignments\A05\Images\Paladin.png" width="200">
+<img src="https://github.com/bsmith578/2143-OOP-Smith/blob/main/Assignments/A05/Images/Paladin.png" width="200">
 
 #### Diagram
 
-<img src="C:\Users\brett\Documents\2143-OOP\2143-OOP-Smith\Assignments\A05\Images\D&D.png" width="900">
+<img src="https://github.com/bsmith578/2143-OOP-Smith/blob/main/Assignments/A05/Images/D%26D.png" width="200">
