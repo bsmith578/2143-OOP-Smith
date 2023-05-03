@@ -9,3 +9,24 @@
 |   #   | File            | Description                                        |
 | :---: | --------------- | -------------------------------------------------- |
 |   1   | [banner.txt]()         |banner for D&D UML|
+
+#### Campaign
+
+#### Encounter
+
+#### Character
+
+#### Consumables
+
+#### Armor
+
+#### Weapon
+
+#### Spell
+
+#### Wizard
+
+#### Ranger
+
+#### Paladin
+
