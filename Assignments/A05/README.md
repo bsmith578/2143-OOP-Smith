@@ -9,4 +9,3 @@
 |   #   | File            | Description                                        |
 | :---: | --------------- | -------------------------------------------------- |
 |   1   | [banner.txt]()         |banner for D&D UML|
-|   2   | [D&D UML]()  | D&D game UML Diagram|
