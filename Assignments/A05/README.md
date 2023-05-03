@@ -12,7 +12,11 @@
 
 #### Campaign
 
+<img src="https://github.com/bsmith578/2143-OOP-Smith/blob/main/Assignments/A05/Images/Campaign.png" width="200">
+
 #### Encounter
+
+<img src="https://github.com/bsmith578/2143-OOP-Smith/blob/main/Assignments/A05/Images/Encounter.png" width="200">
 
 #### Character
 
