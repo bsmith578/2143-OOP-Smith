@@ -22,9 +22,9 @@
 
 <img src="https://github.com/bsmith578/2143-OOP-Smith/blob/main/Assignments/A05/Images/Character.png" width="200">
 
-#### Consumables
+#### Consumable
 
-<img src="https://github.com/bsmith578/2143-OOP-Smith/blob/main/Assignments/A05/Images/Consumables.png" width="200">
+<img src="https://github.com/bsmith578/2143-OOP-Smith/blob/main/Assignments/A05/Images/Consumable.png" width="200">
 
 #### Armor
 
