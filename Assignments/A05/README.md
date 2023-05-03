@@ -1,6 +1,6 @@
 ## A05 -D&D UML
 ### Brett Smith
-### Description:
+### Description: This assignment demonstrates the use of UML (Unified Modeling Language) by showing different classes that would make up a D&D game.
 
 
 
